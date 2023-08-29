@@ -1,4 +1,4 @@
-# 🦜️🔗 LangChain
+# Experimental application of LangChain and related code🦜️🔗 LangChain
 
 ⚡ Building applications with LLMs through composability ⚡
 
