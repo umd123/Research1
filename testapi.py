@@ -1,4 +1,3 @@
-import requests
 
 res = requests.post(
     "https://research1.onrender.com",
@@ -8,3 +7,4 @@ res = requests.post(
 ).json()
 
 print(res)
+
