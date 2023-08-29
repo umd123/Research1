@@ -1,3 +1,4 @@
+pip>=23.2.1
 -e libs/langchain
 -e libs/experimental
 pydantic<2
