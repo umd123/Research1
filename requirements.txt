@@ -1,6 +1,6 @@
 pip>=23.2.1
 uvicorn==0.23.2  # You can specify the version you want or just use the latest.
-python-dotenv==0.16.3
+python-dotenv==0.23.2
 -e libs/langchain
 -e libs/experimental
 pydantic<2
